@@ -1,3 +1,3 @@
 ### İyi günler 👋
 
-Ben Gökhan DEMİR, Barak [Framework kurucusuyum].(http://barak-framework.github.io)
+Ben Gökhan DEMİR, [Barak Framework](http://barak-framework.github.io) kurucusuyum.

@@ -1,3 +1,3 @@
 ### İyi günler 👋
 
-Ben Gökhan DEMİR, [Barak Framework](http://barak-framework.github.io) kurucusu ve geliştiricisiyim.
+Ben Gökhan DEMİR, bir [Barak Framework](http://barak-framework.github.io) kurucusu ve geliştiricisiyim.
